@@ -1,5 +1,6 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Karish Grover </h1>
+<p align="center">
+ 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at **IIIT Delhi, India.** \
@@ -9,6 +10,9 @@
 💬 &nbsp;Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
 📄 &nbsp;You can check out my [website](https://karishgrover.onrender.com/) to know more about my experience and achievements.
 
+
+
+
 <a href="https://github.com/karish-grover/github-readme-stats">
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karish-grover&layout=compact&langs_count=8&theme=radical" />
 </a>
@@ -16,12 +20,11 @@
 
 <a align="left">
  
- ### 🛠 &nbsp; Programming Languages
+ ### 🛠 &nbsp; Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### 🛠 &nbsp; Development and Database
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
