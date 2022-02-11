@@ -7,20 +7,33 @@
 💻 &nbsp; I will be joining ![LinkedIn](https://img.shields.io/badge/LinkedIn%20-05122A.svg?&style=flat&logo=linkedin&logoColor=white) &nbsp; as a Machine Learning intern for Summer'2022.\
 🏫 &nbsp; I have been selected for one of the most prestigious and a fully funder research internship (MITACS Globalink) for Fall'2022 at University of British Columbia, Kelowna.\
 💬 &nbsp;Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
-📄 &nbsp;You can check out my [website](https://karishgrover.onrender.com/) for more details about my experience and achievements.
+📄 &nbsp;You can check out my [website](https://karishgrover.onrender.com/) to know more about my experience and achievements.
+
+<a href="https://github.com/karish-grover/github-readme-stats">
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karish-grover&layout=compact&langs_count=8&theme=radical" />
+</a>
 
 
-### 🛠 &nbsp;Tech Stack
-
+<a align="left">
+ 
+ ### 🛠 &nbsp; Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🛠 &nbsp; Development and Database
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</a>
 
 
+
+ 
+
+### 🛠 &nbsp; Machine Learning/Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
