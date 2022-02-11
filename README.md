@@ -2,14 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at IIIT Delhi, India. \
-💻 &nbsp; I'm currently performing research in the field of Natural Language Processing and Deep Learning.\
-💻 &nbsp; I will be joining ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) as a Machine Learning intern for summer of 2022.\
-🎓&nbsp; I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-💬 &nbsp;Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting projects.\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
+💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at **IIIT Delhi, India.** \
+ &nbsp; I'm currently performing research in the field of Natural Language Processing and Deep Learning.\
+💻 &nbsp; I will be joining ![LinkedIn](https://img.shields.io/badge/LinkedIn%20-05122A.svg?&style=flat&logo=linkedin&logoColor=white) &nbsp; as a Machine Learning intern for Summer'2022.\
+🏫 &nbsp; I have been selected for one of the most prestigious and a fully funder research internship (MITACS Globalink) for Fall'2022 at University of British Columbia, Kelowna.\
+💬 &nbsp;Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
+📄 &nbsp;You can check out my [website](https://karishgrover.onrender.com/) for more details about my experience and achievements.
 
 
 ### 🛠 &nbsp;Tech Stack
