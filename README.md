@@ -1,14 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Karish Grover </h1>
 <p align="center">
  
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at **IIIT Delhi, India.** \
- &nbsp; I'm currently performing research in the field of Natural Language Processing and Deep Learning.\
-💻 &nbsp; I will be joining ![LinkedIn](https://img.shields.io/badge/LinkedIn%20-05122A.svg?&style=flat&logo=linkedin&logoColor=white) &nbsp; as a Machine Learning intern for Summer'2022.\
-🏫 &nbsp; I have been selected for one of the most prestigious and a fully funder research internship (MITACS Globalink) for Fall'2022 at University of British Columbia, Kelowna.\
-💬 &nbsp;Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
-📄 &nbsp;You can check out my [website](https://karishgrover.onrender.com/) to know more about my experience and achievements.
+💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at [IIIT Delhi, India](https://www.iiitd.ac.in/). \
+📈 &nbsp; I'm currently performing research in the field of Natural Language Processing and Deep Learning.\
+💻 &nbsp; I will be joining LinkedIn as a Machine Learning intern for Summer'2022.\
+🏫 &nbsp; I have been selected for a fully funder research internship [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) for Fall'2022 at University of British Columbia.\
+💬 &nbsp; Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
+📄 &nbsp; You can check out my [portfolio](https://karishgrover.onrender.com/) to know more about my experience and achievements.
 
 
 
