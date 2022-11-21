@@ -3,10 +3,8 @@
  
 💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at [IIIT Delhi, India](https://www.iiitd.ac.in/). \
 📈 &nbsp; I'm currently performing research in the field of Natural Language Processing and Deep Learning.\
-💻 &nbsp; I will be joining LinkedIn as a Machine Learning intern for Summer'2022.\
-🏫 &nbsp; I have been selected for a fully funder research internship [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) for Fall'2022 at University of British Columbia.\
 💬 &nbsp; Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
-📄 &nbsp; You can check out my [Portfolio](https://karishgrover.onrender.com/) to know more about my experience and achievements.
+📄 &nbsp; You can check out my [Portfolio](https://karish-grover.github.io/) to know more about my experience and achievements.
 
 
 
