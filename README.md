@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Karish Grover </h1>
 <p align="center">
  
-💡 &nbsp; I'm a Computer Science and Artificial Intelligence junior undergrad at [IIIT Delhi, India](https://www.iiitd.ac.in/). \
-📈 &nbsp; I'm currently performing research in the field of Natural Language Processing and Deep Learning.\
+💡 &nbsp; I am a first year Ph.D. student at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Christos Faloutsos](http://www.cs.cmu.edu/~christos/) and [Prof. Geoffrey J. Gordon](http://www.cs.cmu.edu/~ggordon/). \
+📈 &nbsp; My research interests lie in Graph Machine Learning, Representation Learning, and Explainable Deep Learning.\
 💬 &nbsp; Feel free to reach out to me for collaborating on projects! I am always looking out for new and interesting ventures.\
-📄 &nbsp; You can check out my [Portfolio](https://karish-grover.github.io/) to know more about my experience and achievements.
+📄 &nbsp; You can check out my [Website](https://karish-grover.github.io/) to know more about my experience and achievements.
 
 
 
@@ -48,7 +48,7 @@
 
 
 <a href="https://www.linkedin.com/in/karishgrover/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:karish19471@iiitd.ac.in"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:karishg@cs.cmu.edu"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
 **AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
